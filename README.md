@@ -41,6 +41,3 @@ Develop an unsupervised ML pipeline to classify particles based on shape using *
 This project demonstrates the application of **ML** and **ViT** for particle classification. The pipeline can be adapted for mineral processing applications, improving particle classification for operations like grinding and separation.
 
 ---
-
-### License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
